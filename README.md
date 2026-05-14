@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🧑‍💻 Erwin | Estudiante de Desarrollo de Software
 
-<!--
-**erwinmatzul/erwinmatzul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Actualmente aprendiendo y desarrollando habilidades en desarrollo web, control de versiones y herramientas modernas de programación.
 
-Here are some ideas to get you started:
+🚀 Me interesa seguir creciendo en el área de tecnología mediante la práctica, la creación de proyectos y el aprendizaje continuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,bash,vscode" />
+</p>
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Desarrollo web frontend
+- Buenas prácticas con Git y GitHub
+- JavaScript básico
+- Diseño responsive
+- Nuevas herramientas y tecnologías web
+
+---
+
+## 🌱 Sobre mí
+
+- 📖 En constante aprendizaje
+- 🎯 Enfocado en mejorar mis habilidades como desarrollador
+- ⚡ Interesado en crear proyectos funcionales y modernos
+- 💡 Aprendiendo nuevas tecnologías paso a paso
+
+---
+
