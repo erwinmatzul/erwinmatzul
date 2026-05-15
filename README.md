@@ -7,18 +7,18 @@
   </span>
 </h3>
 
-<p align="center">
-  Estudiante de Desarrollo de Software enfocado en desarrollo web frontend, control de versiones y construcción de proyectos utilizando herramientas modernas del ecosistema web.
-</p>
-
-<p align="center">
-  Actualmente fortaleciendo habilidades en maquetación web, diseño responsive, fundamentos de JavaScript y flujos de trabajo profesionales con Git y GitHub.
-</p>
+<div>
+  <p>
+    Estudiante de Desarrollo de Software enfocado en desarrollo web frontend, control de versiones y construcción de proyectos utilizando herramientas modernas del ecosistema web.
+  </p>
+  <p>
+    Actualmente fortaleciendo habilidades en maquetación web, diseño responsive, fundamentos de JavaScript y flujos de trabajo profesionales con Git y GitHub.
+  </p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Aprendiendo-1e293b?style=flat-square&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Enfoque-Desarrollo_Web-334155?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/github/followers/erwinmatzul?label=Seguidores&style=flat-square&color=1e1b4b&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Rol-Estudiante-2e1065?style=flat-square&labelColor=0f172a" />
   <img src="https://img.shields.io/badge/Ubicación-Guatemala-3f3f46?style=flat-square&labelColor=0f172a" />
 </p>
