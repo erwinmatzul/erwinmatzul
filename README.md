@@ -25,7 +25,12 @@
   <img src="https://img.shields.io/badge/AI_EXPLORER-101D3B?style=flat-square&logo=openai&logoColor=A78BFA" />
 </p>
 
----
+<p align="center">
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:090D0B,50:166534,100:090D0B&height=3&section=header"
+width="100%"
+/>
+</p>
 
  <div> 
   <p>Estudiante de Desarrollo de Software enfocado en la construcción de aplicaciones web funcionales, eficientes y orientadas al usuario. Cuento con bases sólidas en tecnologías de frontend como React y Redux para la creación de interfaces dinámicas y adaptables.</p>
